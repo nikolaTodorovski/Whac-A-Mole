@@ -1,6 +1,6 @@
 # Mob Programming Session - Whac-A-Mole
 
-## Goal
+## Goal Test
 
 Create a small browser game of Whac-A-Mole.
 
